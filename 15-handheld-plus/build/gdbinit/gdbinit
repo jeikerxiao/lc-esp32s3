@@ -1,0 +1,2 @@
+source /Users/xiao/Documents/GitHub/lc-esp32s3/15-handheld-plus/build/gdbinit/symbols
+source /Users/xiao/Documents/GitHub/lc-esp32s3/15-handheld-plus/build/gdbinit/connect
