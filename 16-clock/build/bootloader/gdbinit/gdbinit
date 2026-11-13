@@ -1,0 +1,2 @@
+source /Users/xiao/Documents/GitHub/lc-esp32s3/16-clock/build/bootloader/gdbinit/symbols
+source /Users/xiao/Documents/GitHub/lc-esp32s3/16-clock/build/bootloader/gdbinit/connect
